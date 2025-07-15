@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey i am a final year computer science student and mainly works on data science, data warehousing and analytics. I have a deep knowledge of computer system and other sofwares
+Hey i am a final year computer science student and mainly works on data science, data warehousing ,analytics , front end and back end technologies. I have a deep knowledge of computer system and other softwares.
 
 
 # 💻 Tech Stack:
