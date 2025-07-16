@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey i am a final year computer science student and mainly works on AI ML ,data science, data warehousing ,analytics , front end and back end technologies. I have a deep knowledge of computer system and other softwares.
+Hey i am a final year computer science student and mainly works on AI ML ,data science, data warehousing ,analytics , front end and back end technologies. I have a deep knowledge of computer system and other softwares.  I’m currently learning LLM
 
 
 # 💻 Tech Stack:
